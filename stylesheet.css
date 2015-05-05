@@ -122,9 +122,11 @@ a {
 
 .bluebutterbars {
 	height: 135px;
-	width: 650px;
+	/*width: 650px;*/
 	background-color: #2279C9;
 	margin: 0px auto;
+	margin-right: 25px;
+	margin-left: 25px;
 }
 
 .bluebars {
